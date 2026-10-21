@@ -1,0 +1,14 @@
+# Release files are uploaded as GitHub Release assets, never committed
+*.exe
+*.zip
+*.msi
+SHA256SUMS.txt
+dist/
+
+# Operating system and editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,21 @@
+name: Suggestion
+description: An idea to make Typing Tape better
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome. Please check the existing issues first, in case it was already
+        suggested.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like Typing Tape to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it would help
+      description: How you would use it, or what it would make easier.

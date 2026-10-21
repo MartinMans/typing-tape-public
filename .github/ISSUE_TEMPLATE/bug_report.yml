@@ -1,0 +1,55 @@
+name: Bug report
+description: Something in Typing Tape does not work as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a problem. Issues are public: please do not
+        include personal information, such as your name, user folder paths or email address.
+  - type: input
+    id: version
+    attributes:
+      label: Typing Tape version
+      description: Shown in Settings > Apps > Installed apps, or in the name of the file you downloaded.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: package
+    attributes:
+      label: Installer or portable?
+      options:
+        - Installer
+        - Portable ZIP
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: For example "Windows 11 24H2". Found in Settings > System > About.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you do?
+      description: The steps that lead to the problem.
+      placeholder: |
+        1. Choose Sentences and Must fix
+        2. Start a 1 min round
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Screenshots help. Check them for personal information first.

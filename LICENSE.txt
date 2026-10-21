@@ -1,0 +1,19 @@
+TYPING TAPE FREEWARE LICENSE
+
+Copyright (c) 2026 Martin. All rights reserved.
+
+Typing Tape is free software to download and use for personal or commercial purposes.
+
+You may copy and share the original, unmodified software with others, provided you do so free of charge.
+
+You may not:
+- Sell the software or charge for its distribution, including as part of a paid bundle.
+- Claim ownership or authorship of the software.
+- Remove or alter copyright notices.
+- Distribute modified versions of the software without permission.
+
+The source code remains proprietary and is not included in this license.
+
+Third-party components remain subject to their respective licenses, as described in THIRD-PARTY-NOTICES.txt.
+
+Disclaimer: The software is provided "as is", without warranty of any kind. To the extent permitted by applicable law, the author is not liable for damages arising from its use. Nothing in this license limits rights or liabilities that cannot legally be excluded.
