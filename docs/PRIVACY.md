@@ -55,5 +55,5 @@ A normal uninstall, an update and a reinstall all keep your data.
 ## Contact
 
 Questions about privacy can be asked through the
-[issue tracker](https://github.com/MartinMans/typing-tape-public/issues). Do not post personal
+[issue tracker](https://github.com/MartinMans/typing-tape/issues). Do not post personal
 information there; issues are public.

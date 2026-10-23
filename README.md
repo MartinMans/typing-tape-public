@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MartinMans/typing-tape-public/releases/latest"><b>Download for Windows</b></a>
+  <a href="https://github.com/MartinMans/typing-tape/releases/latest"><b>Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="docs/INSTALLATION.md">Installation</a>
   &nbsp;·&nbsp;
@@ -75,7 +75,7 @@ Typing Tape runs on **Windows 11 (64-bit)**. Windows 10 (64-bit) is expected to 
 not been tested. It uses the Microsoft Edge WebView2 Runtime, which is already part of
 Windows 11.
 
-Get it from the [latest release](https://github.com/MartinMans/typing-tape-public/releases/latest).
+Get it from the [latest release](https://github.com/MartinMans/typing-tape/releases/latest).
 There are two versions:
 
 | Download | What it is |
@@ -92,7 +92,7 @@ Step-by-step instructions, checksum verification, updating and uninstalling are 
 [docs/INSTALLATION.md](docs/INSTALLATION.md).
 
 Typing Tape does not update itself. New versions are published on the
-[Releases page](https://github.com/MartinMans/typing-tape-public/releases).
+[Releases page](https://github.com/MartinMans/typing-tape/releases).
 
 ## Keyboard shortcuts
 
@@ -143,7 +143,7 @@ the documentation and releases only; the source code is not published.
 ## Feedback
 
 If you find a bug or have an idea, I would like to hear about it.
-[Open an issue](https://github.com/MartinMans/typing-tape-public/issues/new/choose) and include:
+[Open an issue](https://github.com/MartinMans/typing-tape/issues/new/choose) and include:
 
 - the Typing Tape version (shown in *Settings > Apps > Installed apps*, or in the name of the
   file you downloaded),

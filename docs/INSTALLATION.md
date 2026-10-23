@@ -15,7 +15,7 @@
 | `Typing-Tape_1.0.0_x64-portable.zip` | You do not want to install anything, or want to run it from a folder of your choice. |
 | `SHA256SUMS.txt` | You want to check that your download is complete and unchanged. |
 
-All three are on the [Releases page](https://github.com/MartinMans/typing-tape-public/releases/latest).
+All three are on the [Releases page](https://github.com/MartinMans/typing-tape/releases/latest).
 
 ## Unsigned download warnings
 
